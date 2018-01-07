@@ -1,2 +1,2 @@
 # LeetCode
-It's my LeetCode solutions, basically written in Python
+It's my LeetCode solutions, basically written in Kotlin
